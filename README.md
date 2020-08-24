@@ -1,5 +1,6 @@
-# R-practice (chisq.test 교차분석 연습) / 가족 구성원 숫자가 차의 크기에 영향을 미치는가? 
+# R-practice 
 
+chisq.test 교차분석 연습) / 가족 구성원 숫자가 차의 크기에 영향을 미치는가? 
 #변수유형 : 가족의 수 (1:1~2명 , 2:3~4명 , 3:5~6명) 범주형, 차의 크기 (1: small , 2: medium, 3: large) 범주형 
 
 setwd("C:/Rtest")
