@@ -23,3 +23,5 @@ library(gmodels)
 
 CrossTable(car$family2,car$carsize2,expected=TRUE,format="SPSS")
 
+
+t.test
